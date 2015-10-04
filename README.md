@@ -1,4 +1,5 @@
 # SadGab
+Check out the updated GladGab https://github.com/JordanJLopez/GladGab
 ## What is it?
 SadGab is a rudimentary string generator based on the popular word game MadGab. A string is inputted then a string with matching syllable pronunciation (if one exists) is outputted.
 ## Why did we make it?
